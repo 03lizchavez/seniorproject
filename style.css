@@ -9,9 +9,11 @@ body {
   font-style: normal;
 
 }
+.container {
+        background-color:#fce6ff;
+}
 .container nav {
     float: left;
-    background-color:#fce6ff;
 }
 .container nav ul {
     margin: 0;
