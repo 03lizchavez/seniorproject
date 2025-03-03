@@ -7,12 +7,11 @@
 body {
   font-family: "Raleway", serif;
   font-style: normal;
-  background: #fce6ff;
 
 }
 .container nav {
-    float: left
-    ;
+    float: left;
+    background-color:#fce6ff;
 }
 .container nav ul {
     margin: 0;
